@@ -1,0 +1,1 @@
+Workout Planner creates AI-assisted workouts tailored to individual goals. I built and tested this to see how AI can personalize fitness plans for regular people. Key insight: AI can simplify creating effective routines, especially for beginners.

@@ -1,0 +1,1 @@
+FitTrack helps track fitness progress using AI. I used this project to explore how AI can provide actionable insights about health trends for everyday users. Key takeaway: Even simple AI can make fitness tracking more motivating.

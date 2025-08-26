@@ -1,12 +1,30 @@
-# AI-in-Real-Life
+# Rucha Gokhale - Portfolio
 
-Applied AI Experiments, Reflections, and Teaching Resources by Rucha Gokhale.
+Welcome to my curated portfolio of projects! This collection showcases my work in AI, machine learning, and software development, highlighting practical applications and real-world solutions.
 
-This repo tracks my hands-on AI experiments, focusing on real-world impact and learning, not coding details. Each folder includes a short write-up about what I learned or accomplished.
+## About Me
 
-## Projects
+I'm passionate about leveraging technology to solve meaningful problems and create impactful solutions. My work spans from AI-powered fitness applications to innovative development tools, always with a focus on user experience and practical utility.
 
-| Project | Description |
-|---------|-------------|
-| FitTrack | Tracks fitness progress using AI |
-| Workout Planner | AI-assisted workout creation |
+## Featured Projects
+
+### 🏋️ [FitTrack](https://github.com/indyrise/AI-in-Real-Life/tree/main/fittrack)
+An intelligent fitness tracking application that uses AI to monitor and analyze workout progress, providing personalized insights for better health outcomes.
+
+### 💪 [Workout Planner](https://github.com/indyrise/AI-in-Real-Life/tree/main/workout-planner)
+AI-assisted workout creation tool that generates customized exercise routines based on individual fitness goals and preferences.
+
+### 🤖 AI Experiments Repository
+This repository itself serves as a living portfolio of my AI experiments and learning journey, documenting real-world applications and insights.
+
+## Additional Work
+
+*More projects and contributions can be found across my GitHub repositories. Each project represents a step in my continuous learning journey and commitment to building meaningful technology solutions.*
+
+## Get In Touch
+
+I'm always interested in collaborating on innovative projects and discussing new opportunities. Feel free to explore my work and reach out if you'd like to connect!
+
+---
+
+*This portfolio is regularly updated with new projects and improvements. Check back often to see what I'm working on next!*

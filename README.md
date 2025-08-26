@@ -14,12 +14,18 @@ An intelligent fitness tracking application that uses AI to monitor and analyze 
 ### 💪 [Workout Planner](https://github.com/indyrise/AI-in-Real-Life/tree/main/workout-planner)
 AI-assisted workout creation tool that generates customized exercise routines based on individual fitness goals and preferences.
 
+### 🔍 [wix-sqspc-scraper](https://github.com/indyrise/wix-sqspc-scraper)
+A web scraper for Wix and Squarespace websites (private repository).
+
+### 🎤 [WiVNJAlexaSkill](https://github.com/indyrise/WiVNJAlexaSkill)
+Alexa skills for Women in Voice NJ.
+
 ### 🤖 AI Experiments Repository
 This repository itself serves as a living portfolio of my AI experiments and learning journey, documenting real-world applications and insights.
 
 ## Additional Work
 
-*More projects and contributions can be found across my GitHub repositories. Each project represents a step in my continuous learning journey and commitment to building meaningful technology solutions.*
+More projects and contributions can be found across my GitHub repositories. Each project represents a step in my continuous learning journey and commitment to building meaningful technology solutions.
 
 ## Get In Touch
 
